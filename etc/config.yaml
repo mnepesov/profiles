@@ -1,0 +1,7 @@
+server:
+  port: 19991
+
+admin:
+  username: "admin"
+  email: "test@gmail.com"
+  password: "password"

@@ -1,0 +1,1 @@
+This folder contains validate.proto version of version 0.5.0 from https://github.com/envoyproxy/protoc-gen-validate/tree/main/validate
